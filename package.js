@@ -4,14 +4,14 @@
   "description": "hey this is Golden Queen MD whatsapp bot",
   "main": "GoldenQueenMD.js",
   "scripts": {
-          "start": "pm2 start GoldenQueenMD.js --deep-monitoring --attach --name GoldenQueenMD",
-    "stop": "pm2 stop GoldenQueenMD",
-    "restart": "pm2 restart GoldenQueenMD"
+          "start": "pm2 start GoldenQueenMD.js --deep-monitoring --attach --name GoldenQueenXMD",
+    "stop": "pm2 stop GoldenQueenXMD",
+    "restart": "pm2 restart GoldenQueenXMD"
   },
   "dependencies": {
+    "adm-zip": "^0.5.16",
    "@whiskeysockets/baileys": "6.7.9", 
     "@adiwajshing/keyed-db": "^0.2.4",
-    "adm-zip": "^0.5.16",
     "form-data": "latest",
     "crypto": "latest",
     "chalk": "5.3.0",
