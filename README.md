@@ -30,7 +30,7 @@ Hi guys, deploy Golden Queen MD bot and enjoy using it.
 
 ### 1. FORK THIS REPO
 <p><i>Fork the  GOLDEN QUEEN MD repository.</i></p>
-<a href='https://github.com/GoldenQueens/Golden-Queens-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white' width="150"></a>
+<a href='https://github.com/GoldenQueenMD/Golden-Queen-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white' width="150"></a>
 
 ### 2. GET SESSION ID 
 <p><i>Link with your WhatsApp using Scan QR code or Pair code.</i></p>
@@ -49,7 +49,7 @@ Hi guys, deploy Golden Queen MD bot and enjoy using it.
  <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
  <p>Now deploy.</p>
   
- <a href='https://dashboard.heroku.com/new?template=https://github.com/GoldenQueens/Golden-Queens-MD.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+ <a href='https://dashboard.heroku.com/new?template=https://github.com/GoldenQueenMD/Golden-Queen-MD.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  ### `VERSION: V1`
