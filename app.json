@@ -5,11 +5,6 @@
   "keywords": ["bot"],
   "success_url": "/",
   "env": {
-    "OWNER_NUMBER": {
-      "description": "Enter Owner Number (94776734030)",
-      "required": false,
-      "value": ""
-    },
     "SESSION_ID": {
       "description": "Add Golden Queen Session ID",
       "required": true
