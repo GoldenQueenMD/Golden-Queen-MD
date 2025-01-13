@@ -43,8 +43,6 @@ module.exports = {
 //  Mongodp URl එක දාන්න 👇👇👇 (උඩු කොමා දෙක ඇතුලේ )
   MONGODB: process.env.MONGODB || "",
 
-// ඕනෙර් නම්බර් එක දාන්න බිංදුව නැතුව 94 මුලට යොදා ඇතුලත් කරන්න (ex: 9477673xxxx)
-OWNER_NUMBER:process.env.OWNER_NUMBER || "",
 
 MAX_SIZE: 500,
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO
