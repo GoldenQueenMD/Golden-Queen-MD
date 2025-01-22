@@ -25,6 +25,14 @@
 ### Please Read!
 Hi guys, deploy Golden Queen MD bot and enjoy using it.
 
+## 𝘊𝘰𝘮𝘮𝘪𝘯𝘨 𝘚𝘰𝘰𝘯...𝘋𝘦𝘱𝘭𝘰𝘺 𝘎𝘶𝘪𝘥 𝘝𝘪𝘥𝘦𝘰 𝘊𝘭𝘪𝘤𝘬✰⚡
+
+[![Watch the video](https://i.ibb.co/M6HxWph/Golden-Queen-MD-VIMAMODS-a8ec679520518c81.jpg)](https://youtu.be/UnsVPReyRkY?si=VvkTmgnNgQX9THDS)
+
+## 𝘊𝘰𝘮𝘮𝘪𝘯𝘨 𝘚𝘰𝘰𝘯...𝘊𝘳𝘦𝘢𝘵𝘦 𝘔𝘰𝘯𝘨𝘰𝘋𝘉 𝘜𝘳𝘭 𝘎𝘶𝘪𝘥 𝘝𝘪𝘥𝘦𝘰✰⚡
+
+[![Watch the video](https://i.ibb.co/M6HxWph/Golden-Queen-MD-VIMAMODS-a8ec679520518c81.jpg)](https://youtu.be/UnsVPReyRkY?si=VvkTmgnNgQX9THDS)
+
 ## GOLDEN QUEEN MD WA BOT Deploy Steps
 
 
