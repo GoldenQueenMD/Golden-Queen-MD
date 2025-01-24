@@ -25,14 +25,6 @@
 ### Please Read!
 Hi guys, deploy Golden Queen MD bot and enjoy using it.
 
-## 𝘊𝘰𝘮𝘮𝘪𝘯𝘨 𝘚𝘰𝘰𝘯...𝘋𝘦𝘱𝘭𝘰𝘺 𝘎𝘶𝘪𝘥 𝘝𝘪𝘥𝘦𝘰 𝘊𝘭𝘪𝘤𝘬✰⚡
-
-[![Watch the video](https://i.ibb.co/M6HxWph/Golden-Queen-MD-VIMAMODS-a8ec679520518c81.jpg)](https://youtu.be/UnsVPReyRkY?si=VvkTmgnNgQX9THDS)
-
-## 𝘊𝘰𝘮𝘮𝘪𝘯𝘨 𝘚𝘰𝘰𝘯...𝘊𝘳𝘦𝘢𝘵𝘦 𝘔𝘰𝘯𝘨𝘰𝘋𝘉 𝘜𝘳𝘭 𝘎𝘶𝘪𝘥 𝘝𝘪𝘥𝘦𝘰✰⚡
-
-[![Watch the video](https://i.ibb.co/M6HxWph/Golden-Queen-MD-VIMAMODS-a8ec679520518c81.jpg)](https://youtu.be/UnsVPReyRkY?si=VvkTmgnNgQX9THDS)
-
 ## GOLDEN QUEEN MD WA BOT Deploy Steps
 
 
@@ -62,6 +54,15 @@ Hi guys, deploy Golden Queen MD bot and enjoy using it.
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  ### `VERSION: V1`
 [Contact the support group](https://whatsapp.com/channel/0029VatNXdD1dAwDAV9kvM28) for any issues that arise during the bot creation process.
+
+## 𝘋𝘦𝘱𝘭𝘰𝘺 𝘎𝘶𝘪𝘥 𝘏𝘦𝘳𝘰𝘬𝘶 𝘝𝘪𝘥𝘦𝘰 𝘊𝘭𝘪𝘤𝘬✰⚡
+
+[![Watch the video](https://i.ibb.co/km7BXGz/Golden-Queen-MD-VIMAMODS-2d05d2e9b5f48f9c.jpg)](https://youtu.be/ESfQj3fA8OU)
+
+## 𝘊𝘳𝘦𝘢𝘵𝘦 𝘔𝘰𝘯𝘨𝘰𝘋𝘉 𝘜𝘳𝘭 𝘎𝘶𝘪𝘥 𝘝𝘪𝘥𝘦𝘰✰⚡
+
+[![Watch the video](https://i.ibb.co/hZ42Pgx/Golden-Queen-MD-VIMAMODS-205cdbd33e54682d.jpg)](https://youtu.be/b-KsFDgIbOY)
+
 
 ## DEVELOPERS 
 [![VIMA](https://i.ibb.co/q0xbBbP/Golden-Queen-MD-VIMAMODS-d58f820b1febadb6.jpg?size=10)](https://whatsapp.com/channel/0029VatNXdD1dAwDAV9kvM28) | [![DILA](https://files.catbox.moe/8oxpkk.jpeg?size=50)](https://whatsapp.com/channel/0029VatNXdD1dAwDAV9kvM28) | [![ROCKY](https://i.ibb.co/5v5ryvx/Golden-Queen-MD-VIMAMODS-472335d8adda3158.jpg?size=50)](https://whatsapp.com/channel/0029VatNXdD1dAwDAV9kvM28)  
