@@ -34,7 +34,7 @@ Hi guys, deploy Golden Queen MD bot and enjoy using it.
 
 ### 2. GET SESSION ID 
 <p><i>Link with your WhatsApp using Scan QR code or Pair code.</i></p>
-<a href="https://sesseion-18ca739565c9.herokuapp.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="200"></a>   
+<a href="https://golden-queen-session-3727cc9c2abc.herokuapp.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="200"></a>   
 
 ### 3.ADD DETAILS TO CONFIG 
 
